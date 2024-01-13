@@ -44,17 +44,8 @@
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/To2rk/To2rk/assets/images/hr.gif" />
-
 <div align="center" >
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/To2rk/To2rk/assets/images/mb.png" width="250" height="250" />
-
-<!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=To2rk&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
@@ -72,28 +63,12 @@
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/To2rk/To2rk/assets/images/hr.gif" />
-
 <div align="center" >
-
-<!-- profile-3d-contrib 3D贡献图-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/To2rk/To2rk/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/To2rk/To2rk/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/To2rk/To2rk/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
 </div>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/To2rk/To2rk/assets/images/hr.gif" />
-
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
-
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/To2rk/To2rk/assets/images/githubgif.gif" />
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 </div>
