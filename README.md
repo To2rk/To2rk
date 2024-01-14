@@ -21,9 +21,9 @@
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/To2rk/To2rk/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/To2rk/To2rk/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/To2rk/To2rk/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/To2rk/To2rk/e68bfb7bb77b409a9db258f6ba76c873cd761126/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/To2rk/To2rk/e68bfb7bb77b409a9db258f6ba76c873cd761126/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/To2rk/To2rk/e68bfb7bb77b409a9db258f6ba76c873cd761126/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
