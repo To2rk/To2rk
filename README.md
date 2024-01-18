@@ -23,7 +23,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/To2rk/To2rk/e68bfb7bb77b409a9db258f6ba76c873cd761126/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/To2rk/To2rk/e68bfb7bb77b409a9db258f6ba76c873cd761126/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/To2rk/To2rk/beb2476f3506864013973e593afbea12a87b1cb3/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/To2rk/To2rk/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
